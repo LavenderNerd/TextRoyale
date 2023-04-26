@@ -1,0 +1,14 @@
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\bin\Debug\netcoreapp3.1\TextRoyale.exe
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\bin\Debug\netcoreapp3.1\TextRoyale.deps.json
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\bin\Debug\netcoreapp3.1\TextRoyale.runtimeconfig.json
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\bin\Debug\netcoreapp3.1\TextRoyale.runtimeconfig.dev.json
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\bin\Debug\netcoreapp3.1\TextRoyale.dll
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\bin\Debug\netcoreapp3.1\TextRoyale.pdb
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\obj\Debug\netcoreapp3.1\TextRoyale.csproj.AssemblyReference.cache
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\obj\Debug\netcoreapp3.1\TextRoyale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\obj\Debug\netcoreapp3.1\TextRoyale.AssemblyInfoInputs.cache
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\obj\Debug\netcoreapp3.1\TextRoyale.AssemblyInfo.cs
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\obj\Debug\netcoreapp3.1\TextRoyale.csproj.CoreCompileInputs.cache
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\obj\Debug\netcoreapp3.1\TextRoyale.dll
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\obj\Debug\netcoreapp3.1\TextRoyale.pdb
+C:\Users\LavenderNerd\source\repos\FunProject\FunProject\obj\Debug\netcoreapp3.1\TextRoyale.genruntimeconfig.cache
